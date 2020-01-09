@@ -1,5 +1,5 @@
 confusable-homoglyphs==3.2.0
-Django==2.1.7
+Django==2.1.15
 django-assets==0.12
 django-bootstrap3==11.0.0
 django-registration==3.0
